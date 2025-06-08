@@ -29,3 +29,4 @@ SQLite – database for ticket tracking
 
 smtplib / email.message – email sending
 
+All credit goes to the original creator.
