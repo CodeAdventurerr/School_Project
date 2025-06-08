@@ -1,0 +1,12 @@
+Customer Name: as
+Movie Name: Mario Movie
+Total Price: 17500$
+=====================
+Customer Name: ac
+Movie Name: John Wick
+Total Price: 525$
+=====================
+Customer Name: AC
+Movie Name: John Wick
+Total Price: 175$
+=====================
