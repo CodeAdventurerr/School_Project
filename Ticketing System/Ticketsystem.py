@@ -110,8 +110,8 @@ def book():
             port = 587
 
             # variable declaration for sender's gmail  account email and password
-            email = 'genscyr@gmail.com'
-            password = 'xlhh egta djrm qumm'
+            email = 'YourEmail@gmail.com'
+            password = 'Yourpassword'
 
             # Preparation for recipient (No Assigned Values coz the user will input that in console)
             fullname = customer_name
